@@ -19,7 +19,7 @@ Asi iniciamos sesion con la clave del host
 ll /vagrant
 ```
 
-Despues de hacer estos comandos no se habra guardado en la maquina asi que hacemos un "apt update" o un "apt upgrade", Con la maquina ya actuañizada he instalado estos servidores web con los siguientes comandos:
+Despues de hacer estos comandos no se habra guardado en la maquina asi que hacemos un "apt update" o un "apt upgrade", Con la maquina ya actualizada he instalado estos servidores web con los siguientes comandos:
 
 ```
 sudo apt install -y apache2
